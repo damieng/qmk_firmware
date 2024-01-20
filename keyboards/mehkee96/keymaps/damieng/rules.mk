@@ -1,5 +1,4 @@
-# Build Options
-#   change yes to no to disable
+# Build tweaks for small AVR but with NKRO
 #
 MOUSEKEY_ENABLE = no      # Mouse keys
 COMMAND_ENABLE = no       # Commands for debug and configuration
